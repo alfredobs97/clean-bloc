@@ -1,0 +1,5 @@
+name: test
+description: test.
+to: lib/test/@name
+args:
+  - name
